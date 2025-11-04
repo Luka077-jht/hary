@@ -236,20 +236,20 @@ def initialize_characters():
         'avg_rating': [9.2, 8.1, 8.7, 7.8, 7.5, 7.3],
         'rating_count': [15200, 12800, 11500, 9800, 8900, 7600],
         'image_url': [
-            'https://via.placeholder.com/200x300/1E3C72/FFFFFF?text=文东恩',
-            'https://via.placeholder.com/200x300/2A5298/FFFFFF?text=朴妍珍',
-            'https://via.placeholder.com/200x300/667EEA/FFFFFF?text=周汝正',
-            'https://via.placeholder.com/200x300/764BA2/FFFFFF?text=全在俊',
-            'https://via.placeholder.com/200x300/FF6B6B/FFFFFF?text=李莎拉',
-            'https://via.placeholder.com/200x300/FF8E53/FFFFFF?text=崔惠程'
+            '黑暗荣耀/文东恩.jpg',
+            '黑暗荣耀/朴妍珍.png',
+            '黑暗荣耀/周汝正.jpg',
+            '黑暗荣耀/全在俊.jpg',
+            '黑暗荣耀/李莎拉.jpg',
+            '黑暗荣耀/崔惠程.jpg'
         ],
         'actor_photo_url': [
-            'https://via.placeholder.com/200x300/4CAF50/FFFFFF?text=宋慧乔',
-            'https://via.placeholder.com/200x300/2196F3/FFFFFF?text=林智妍',
-            'https://via.placeholder.com/200x300/9C27B0/FFFFFF?text=李到晛',
-            'https://via.placeholder.com/200x300/FF9800/FFFFFF?text=朴成焄',
-            'https://via.placeholder.com/200x300/607D8B/FFFFFF?text=金赫拉',
-            'https://via.placeholder.com/200x300/795548/FFFFFF?text=车珠英'
+            '黑暗荣耀/宋慧乔.webp',
+            '黑暗荣耀/林智妍.jpg',
+            '黑暗荣耀/李到晛.jpeg',
+            '黑暗荣耀/朴成焄.jpg',
+            '黑暗荣耀/金赫拉.webp',
+            '黑暗荣耀/车珠英.jpg'
         ]
     }
     return pd.DataFrame(characters_data)
